@@ -1,2 +1,2 @@
-# terraform-aws-basicinfra
-terraform-aws-basicinfra
+# terraform-aws-child-modules
+TESTING TFC CHILD MODULE (TFC PRIVATE REGISTRY)
